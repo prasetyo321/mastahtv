@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://spottonefootball.akamaized.net/hls/live/2020176/2231293_2475331/hdntl=exp=1658717366~acl=%2f*~data=hdntl~hmac=3e0d4f1eb745dbba03cf6fd2a72e5f1bcf7ceb0eaab27f89b17fc5965177d4ce/2475331_2000.m3u8
+https://pull.xingliju.com/leisu/1117639688274724.m3u8?auth_key=1658648310-0-0-0ceb6001a8601d9e451f4f282769dd23
